@@ -1,7 +1,6 @@
 ## Hi Simo 👋
 
-<div align="center"><img src="<img width="589" height="960" alt="3" src="https://github.com/user-attachments/assets/14fefe30-6ca7-4135-ae95-016f8ca37639" />
-" width="160" height="160" alt="Samir Gamal Yacoub">👋 Hi, I'm Samir Gamal Yacoub
+<div align="center"><img src="E:\SAMIR\PROGRAMMIND\5_Javascript\mybook_JS\img\3.jpg">👋 Hi, I'm Samir Gamal Yacoub
 
 💻 Web Developer | Python Developer
 
