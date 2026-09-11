@@ -1,6 +1,6 @@
 ## Hi Simo 👋
 
-<div align="center"><img src=""E:\SAMIR\PROGRAMMIND\5_Javascript\mybook_JS\img\3.jpg"" width="160" height="160" alt="Samir Gamal Yacoub">👋 Hi, I'm Samir Gamal Yacoub
+<div align="center"><img src="E:\SAMIR\PROGRAMMIND\5_Javascript\mybook_JS\img\3.jpg" width="160" height="160" alt="Samir Gamal Yacoub">👋 Hi, I'm Samir Gamal Yacoub
 
 💻 Web Developer | Python Developer
 
