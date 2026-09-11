@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Simo 👋
 
 <!--
 **simo590/simo590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
