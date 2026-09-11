@@ -1,148 +1,106 @@
 ## Hi Simo 👋
-*{
-  margin: 0;
-  padding: 0;
-}
-body{
-  background: black;
-  color: #fff;
-  font-family: serif;
-  
-}
-h2{
-  background :#fff;
-  color:green;
-  border: solid;
-  border-width: 20px;
-  border-color: red  #000A72 black green;
-}
-p{
-  text-shadow: 1px 1px red;
-  border: solid 1px #fff;
-}
-.gn{
-  width:fit-content;
-  
-}
-.crud{
-  /*background-image:url("images/3.jpg") ;
-  background-size: contain;
-  background-repeat: no-repeat;
-  */
 
-  background: #040941;
-  width: 96%;
-  
-  padding: 5px;
-  border: solid 2px yellow;
-  /*جعل المشروع في الوسط*/
-  margin: auto;
- 
-}
-.inputs,.output,.head{
-  margin-bottom:30px ;
-}
-.head{
-  text-align: center;
-  text-transform: uppercase;
-  margin: 10px 0;
-}
-input{
-  background:  #D1E3BC;
-  width: 43%;
-  margin: 4px;
-  padding: 2px;
-  border-radius: 20px;
-  
-}
-input:focus {
-  background: lightblue;
-  transform: scale(1.1);
-}
-.gender{
-  width :fit-content;
-}
-#countries{
-  margin-left: 30px;
-}
-#submit{
-  background: #B2F167;
-  width :100%;
-  padding: 2px;
-  font-weight:900 ;
-  color: #070013;
-  text-shadow:1px 1px 0px red ;
-  border-radius: 30px;
-  transition: 0.5s;
-  
-}
-#submit:hover{
-  letter-spacing: 1px;
-}
+<div align="center"><img src="YOUR_IMAGE_URL" width="160" height="160" alt="Samir Gamal Yacoub">👋 Hi, I'm Samir Gamal Yacoub
 
-#search{
-  width :95%;
- 
-  
-}
-.btnsearch{
-  display: flex;
-  justify-content: space-between;
-}
-.btnsearch button{
-  width :45%;
-}
-table{
-  width :100%;
-  margin: 10px 0;
-  border: 2px double green;
-  text-align: center;
-}
-table th{
-  text-transform: uppercase;
-  border: 2px double #EB34CB;
-  text-shadow:1px 1px 0px red ;
-  
-}
-table td{
-  border: 2px double green;
-}
+💻 Web Developer | Python Developer
 
-#ct{
-  overflow: scroll;
-}
-fieldset{
-  display: flex;
-  
-}
-#female{
-  width:fit-content;
-margin-left:30% ;
-}
-#male{
-  width:fit-content;
-margin-left:10% ;
-}
-#deleteAll{
-  background: #93F37D;
-  text-align: center;
-  font-weight:600;
-  color: red;
-  text-shadow:1px 1px 0px #fff;
-  border-radius: 5px;
-  transition: 0.5s;
-  margin: 20px 0;
-}
-#delete{
-  background: #DD627E;
-}
-#update{
-  background: #29E22C;
-}
-#update,#delete{
-  border-radius: 10px;
-  padding: 4px;
-  color: #fff;
-  font-weight: 600;
-  text-shadow: 2px 2px #0C1FE7;
-}
+<p>
+  <a href="https://github.com/simo590">
+    <img src="https://img.shields.io/badge/GitHub-simo590-181717?style=for-the-badge&logo=github">
+  </a>
+</p></div>---
+
+🧑‍💻 About Me
+
+I'm Samir Gamal Yacoub, a Web Developer passionate about creating modern, responsive, and user-friendly web applications.
+
+- 💻 Web Developer
+- 🌐 Interested in Front-End & Full-Stack Development
+- 🐍 Learning Python
+- ⚡ Improving my JavaScript skills
+- 🛠️ Building practical projects
+- 📚 Always learning new technologies
+- 🎯 Working toward becoming a professional Full-Stack Developer
+
+---
+
+🛠️ Tech Stack
+
+🌐 Front-End
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>🐍 Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>---
+
+🚀 Featured Project
+
+🚗 Car Management System
+
+A web application for managing car information using JavaScript and LocalStorage.
+
+✨ Features
+
+- ➕ Add cars
+- ✏️ Edit car information
+- 🗑️ Delete cars
+- 🧹 Delete all cars
+- 💾 Save data using LocalStorage
+- 🔄 Dynamic data management
+
+🧰 Technologies
+
+"HTML" "CSS" "JavaScript" "LocalStorage"
+
+---
+
+📚 Currently Learning
+
+HTML        ████████████████████ 100%
+CSS         ████████████████████ 100%
+JavaScript  ██████████████████░░  90%
+Python      ███████████████░░░░░  75%
+Git/GitHub  ███████████████░░░░░  75%
+
+---
+
+🎯 My Goals
+
+- 🚀 Become a professional Full-Stack Developer
+- ⚡ Master JavaScript
+- 🐍 Improve my Python skills
+- 🔌 Learn REST APIs
+- 🗄️ Learn SQL & Databases
+- 🔐 Learn Authentication & Security
+- 🌐 Build real-world web applications
+- ☁️ Learn Deployment
+- 💼 Build a professional portfolio
+
+---
+
+📊 GitHub Stats
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=simo590&show_icons=true&theme=tokyonight&hide_border=true" width="48%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simo590&layout=compact&theme=tokyonight&hide_border=true" width="48%"></div>---
+
+🔥 GitHub Streak
+
+<div align="center"><img src="https://streak-stats.demolab.com?user=simo590&theme=tokyonight&hide_border=true"></div>---
+
+🌐 Connect With Me
+
+<div align="center"><a href="https://github.com/simo590">
+  <img src="https://img.shields.io/badge/GitHub-simo590-181717?style=for-the-badge&logo=github">
+</a></div>---
+
+<div align="center">💡 Learn → Build → Break → Fix → Improve → Repeat. 🚀
+
+⭐ Thanks for visiting my profile!
+
+</div>
