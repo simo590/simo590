@@ -1,106 +1,467 @@
-## Hi Simo 👋
+<!DOCTYPE html>
+<html lang="en">
 
-<div align="center"><img src="E:\SAMIR\PROGRAMMIND\5_Javascript\mybook_JS\img\3.jpg">👋 Hi, I'm Samir Gamal Yacoub
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-💻 Web Developer | Python Developer
+    <title>Web Developer CV</title>
 
-<p>
-  <a href="https://github.com/simo590">
-    <img src="https://img.shields.io/badge/GitHub-simo590-181717?style=for-the-badge&logo=github">
-  </a>
-</p></div>---
+    <link rel="stylesheet" href="style.css">
+    <style >
 
-🧑‍💻 About Me
+    <!-- Icons -->
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
 
-I'm Samir Gamal Yacoub, a Web Developer passionate about creating modern, responsive, and user-friendly web applications.
+<body>
 
-- 💻 Web Developer
-- 🌐 Interested in Front-End & Full-Stack Development
-- 🐍 Learning Python
-- ⚡ Improving my JavaScript skills
-- 🛠️ Building practical projects
-- 📚 Always learning new technologies
-- 🎯 Working toward becoming a professional Full-Stack Developer
+    <!-- Header -->
+    <header class="header">
 
----
+        <div class="logo">
+            <img src="profile.png" alt="" />
+            <span>&lt;</span>Simo <span>/&gt;</span>
+        </div>
 
-🛠️ Tech Stack
+        <nav id="navbar">
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#skills">Skills</a>
+            <a href="#projects">Projects</a>
+            <a href="#contact">Contact</a>
+        </nav>
 
-🌐 Front-End
+        <div class="header-buttons">
+            <button id="darkMode">
+                <i class="fa-solid fa-moon"></i>
+            </button>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>🐍 Programming
+            <button id="menu">
+                <i class="fa-solid fa-bars"></i>
+            </button>
+        </div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>🔧 Tools
+    </header>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>---
 
-🚀 Featured Project
+    <!-- Home -->
+    <section id="home" class="home">
 
-🚗 Car Management System
+        <div class="home-content">
 
-A web application for managing car information using JavaScript and LocalStorage.
+            <p class="welcome">Hello, I'm</p>
 
-✨ Features
+            <h1>Web Developer</h1>
 
-- ➕ Add cars
-- ✏️ Edit car information
-- 🗑️ Delete cars
-- 🧹 Delete all cars
-- 💾 Save data using LocalStorage
-- 🔄 Dynamic data management
+            <h2>Samir Jamal Yagoub</h2>
+            <img src="profile.png" alt="" />
 
-🧰 Technologies
+            <p>
+                I build modern, responsive and user-friendly websites
+                using Several Programming languages.
+            </p>
 
-"HTML" "CSS" "JavaScript" "LocalStorage"
+            <div class="buttons">
 
----
+                <a href="#contact" class="btn">
+                    Contact Me
+                </a>
 
-📚 Currently Learning
+                <button id="printCV" class="btn secondary">
+                    <i class="fa-solid fa-print"></i>
+                    Print CV
+                </button>
 
-HTML        ████████████████████ 100%
-CSS         ████████████████████ 100%
-JavaScript  ██████████████████░░  90%
-Python      ███████████████░░░░░  75%
-Git/GitHub  ███████████████░░░░░  75%
+            </div>
 
----
+        </div>
 
-🎯 My Goals
 
-- 🚀 Become a professional Full-Stack Developer
-- ⚡ Master JavaScript
-- 🐍 Improve my Python skills
-- 🔌 Learn REST APIs
-- 🗄️ Learn SQL & Databases
-- 🔐 Learn Authentication & Security
-- 🌐 Build real-world web applications
-- ☁️ Learn Deployment
-- 💼 Build a professional portfolio
+        <div class="home-image">
 
----
+            <div class="code-card">
 
-📊 GitHub Stats
+                <div class="dots">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=simo590&show_icons=true&theme=tokyonight&hide_border=true" width="48%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simo590&layout=compact&theme=tokyonight&hide_border=true" width="48%"></div>---
+                <pre>
+<span class="purple">const</span> developer = {
+    name: <span class="green">"Simo"</span>,
+    role: <span class="green">"Web Developer"</span>,
+    skills: [
+        <span class="green">"Python"</span>,
+        <span class="green">"Java"</span>,
+        <span class="green">"JavaScript"</span>
+        <span class="green">"React"</span>
+    ]
+};
+                </pre>
 
-🔥 GitHub Streak
+            </div>
 
-<div align="center"><img src="https://streak-stats.demolab.com?user=simo590&theme=tokyonight&hide_border=true"></div>---
+        </div>
 
-🌐 Connect With Me
+    </section>
 
-<div align="center"><a href="https://github.com/simo590">
-  <img src="https://img.shields.io/badge/GitHub-simo590-181717?style=for-the-badge&logo=github">
-</a></div>---
 
-<div align="center">💡 Learn → Build → Break → Fix → Improve → Repeat. 🚀
+    <!-- About -->
+    <section id="about" class="section">
 
-⭐ Thanks for visiting my profile!
+        <div class="section-title">
+            <p>About Me</p>
+            <h2>Who I Am</h2>
+        </div>
 
-</div>
+        <div class="about-content">
+
+            <div class="about-card">
+                <i class="fa-solid fa-user"></i>
+                <h3>Web Developer</h3>
+
+                <p>
+                    I am a passionate Web Developer interested in
+                    creating modern websites and interactive web
+                    applications.
+                </p>
+            </div>
+
+
+            <div class="about-card">
+                <i class="fa-solid fa-code"></i>
+
+                <h3>Clean Code</h3>
+
+                <p>
+                    I focus on writing organized, readable and
+                    maintainable code.
+                </p>
+            </div>
+
+
+            <div class="about-card">
+                <i class="fa-solid fa-mobile-screen"></i>
+
+                <h3>Responsive Design</h3>
+
+                <p>
+                    I create websites that work well on phones,
+                    tablets and computers.
+                </p>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Skills -->
+    <section id="skills" class="section skills-section">
+
+        <div class="section-title">
+            <p>My Skills</p>
+            <h2>Technical Skills</h2>
+        </div>
+
+        <div class="skills">
+
+            <div class="skill">
+
+                <div class="skill-info">
+                    <span>Python</span>
+                    <span>90%</span>
+                </div>
+
+                <div class="progress">
+                    <div class="progress-bar html"></div>
+                </div>
+
+            </div>
+
+
+            <div class="skill">
+
+                <div class="skill-info">
+                    <span>React</span>
+                    <span>85%</span>
+                </div>
+
+                <div class="progress">
+                    <div class="progress-bar css"></div>
+                </div>
+
+            </div>
+
+
+            <div class="skill">
+
+                <div class="skill-info">
+                    <span>JavaScript</span>
+                    <span>95%</span>
+                </div>
+
+                <div class="progress">
+                    <div class="progress-bar js"></div>
+                </div>
+
+            </div>
+
+
+            <div class="skill">
+
+                <div class="skill-info">
+                    <span>Git & GitHub</span>
+                    <span>80%</span>
+                </div>
+
+                <div class="progress">
+                    <div class="progress-bar git"></div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Experience -->
+    <section class="section">
+
+        <div class="section-title">
+            <p>Experience</p>
+            <h2>My Journey</h2>
+        </div>
+
+        <div class="timeline">
+
+            <div class="timeline-item">
+
+                <div class="timeline-dot"></div>
+
+                <div class="timeline-content">
+
+                    <span>2023 - Present</span>
+
+                    <h3>Junior Web Developer</h3>
+
+                    <p>
+                        Developing responsive websites using
+                        Python , JavaScript & React.
+                    </p>
+
+                </div>
+
+            </div>
+
+
+            <div class="timeline-item">
+
+                <div class="timeline-dot"></div>
+
+                <div class="timeline-content">
+
+                    <span>2020 - 2023</span>
+
+                    <h3>Web Development Student</h3>
+
+                    <p>
+                        Learned frontend development and practiced
+                        building interactive web projects.
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Projects -->
+    <section id="projects" class="section">
+
+        <div class="section-title">
+            <p>My Work</p>
+            <h2>Projects</h2>
+        </div>
+
+
+        <div class="projects">
+
+            <div class="project">
+
+                <div class="project-icon">
+                    <i class="fa-solid fa-car"></i>
+                </div>
+
+                <h3>Cars Management</h3>
+
+                <p>
+                    CRUD project for managing cars using
+                    JavaScript and LocalStorage.
+                </p>
+
+                <div class="technologies">
+                    <span>HTML</span>
+                    <span>CSS</span>
+                    <span>JavaScript</span>
+                    <p id="carLink"><a href="https://simo590.github.io/car/">Show the Project</a>🚘</p>
+                </div>
+
+            </div>
+
+
+            <div class="project">
+
+                <div class="project-icon">
+                    <i class="fa-solid fa-table"></i>
+                </div>
+
+                <h3>Products System</h3>
+
+                <p>
+                    Login and user information system using
+                    JavaScript and LocalStorage.
+                </p>
+
+                <div class="technologies">
+                    <span>python</span>
+                    <span>JavaScript</span>
+                </div>
+                <p id="product"><a href="https://simo590.github.io/products-_EN/">Show The project</a>🛒</p>
+
+            </div>
+
+
+            <div class="project">
+
+                <div class="project-icon">
+                    <i class="fa-solid fa-globe"></i>
+                </div>
+
+                <h3>Personal Website</h3>
+
+                <p>
+                    Responsive personal website with modern
+                    design and JavaScript interactions.
+                </p>
+
+                <div class="technologies">
+                    <span>python</span>
+                    <span>JS</span>
+                    <span>React</span>
+                </div>
+                <p id="web"><a href="#">Show It</a>🌐</p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Contact -->
+    <section id="contact" class="section contact">
+
+        <div class="section-title">
+
+            <p>Contact</p>
+
+            <h2>Get In Touch</h2>
+
+        </div>
+
+
+        <div class="contact-container">
+
+            <div class="contact-info">
+
+                <div>
+                    <i class="fa-solid fa-envelope"></i>
+                    <span>seemseem716@gmail.com</span>
+                </div>
+
+                <div>
+                    <i class="fa-solid fa-phone"></i>
+                    <span>+212 714752042</span>
+                </div>
+
+                <div>
+                    <i class="fa-brands fa-github"><a href="https://github.com/simo590"></a></i>
+                    <span>github.com/simo590</span>
+                </div>
+
+            </div>
+
+
+            <form id="contactForm">
+
+                <input
+                    type="text"
+                    id="name"
+                    placeholder="Your Name"
+                    required
+                >
+
+                <input
+                    type="email"
+                    id="email"
+                    placeholder="Your Email"
+                    required
+                >
+
+                <textarea
+                    id="message"
+                    placeholder="Your Message"
+                    required
+                ></textarea>
+
+                <button type="submit" class="btn">
+                    Send Message
+                </button>
+
+            </form>
+
+        </div>
+
+    </section>
+
+
+    <!-- Footer -->
+    <footer>
+
+        <p>
+            © <span id="year"></span>
+            Samir Jamal Yagoub. All Rights Reserved.
+        </p>
+
+        <div class="social">
+
+            <a href="https://github.com/simo590">
+                <i class="fa-brands fa-github"></i>
+            </a>
+
+            <a href="https://www.linkedin.com/in/samir-simo?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+                <i class="fa-brands fa-linkedin"></i>
+            </a>
+
+            <a href="#">
+                <i class="fa-brands fa-facebook"></i>
+            </a>
+
+        </div>
+
+    </footer>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
